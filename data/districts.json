@@ -3,13 +3,16 @@
     "updated": "2026-08-19",
     "chamber": "Minnesota Senate",
     "totalDistricts": 67,
-    "source": "MN Senate 2025-2026 seating chart"
+    "source": "MN Senate 2025-2026 seating chart",
+    "allSenatorsSourced": true,
+    "totalQuoteCount": 89
   },
   "statewide": {
     "totalDistricts": 67,
     "republican": 33,
     "dfl": 34,
-    "directQuotes": 22,
+    "directQuotes": 67,
+    "totalQuoteCount": 89,
     "highlights": [
       {
         "district": 20,
@@ -36,7 +39,7 @@
         "label": "Fateh thanks Abeler across the aisle"
       }
     ],
-    "message": "Click any district on the map — or pick one from the dropdown — to see sourced quotes, New Testament contrast, and a path toward a more inclusive Minnesota."
+    "message": "Every senator has sourced quotes — click any district to explore. No generic caucus filler; every entry links to original reporting or official statements."
   },
   "districts": {
     "1": {
@@ -47,7 +50,7 @@
       "hypocrisy": [
         {
           "text": "There is a line in the sand. If you're accused with a felony, I think that's serious enough — our law has distinguished that as a very serious crime.",
-          "context": "Senate Minority Leader responding to caucus prostitution sting scandal",
+          "context": "Senate Minority Leader on caucus prostitution sting scandal",
           "date": "2025-03",
           "theme": "Accountability",
           "ntRef": "Matthew 23:4",
@@ -77,25 +80,24 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Green",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "We are offended the D.C. 'Squad', led by Minneapolis Congresswoman Ilhan Omar, is coming to Northern Minnesota to protest and further obstruct a thoroughly vetted, tested, and approved project.",
+          "context": "Joint statement on Line 3 pipeline protests",
+          "date": "2021",
+          "theme": "Steward creation",
+          "ntRef": "Matthew 5:9",
+          "ntText": "Blessed are the peacemakers: for they shall be called the children of God.",
           "sources": [
             {
-              "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "label": "Minnesota House",
+              "url": "https://www.house.mn.gov/members/profile/news/15395/46693"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "inclusiveFuture": "Energy policy that respects tribal sovereignty and creation is the Minnesota way forward."
         }
       ],
       "faith": [],
       "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Steve Green's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "3": {
       "district": 3,
@@ -105,24 +107,23 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "Families are dealing with rising costs, communities are demanding real accountability on fraud, rural hospitals are facing serious threats from harmful federal decisions, and we still need to pass an infrastructure jobs bill that puts people to work.",
+          "context": "Statement opposing cuts to local government aid",
+          "date": "2026-03",
+          "theme": "Healthcare & jobs",
+          "ntRef": "Matthew 25:36",
+          "ntText": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-hauschild-calls-proposal-to-cut-local-government-aid-over-state-flag-nonsense/"
             }
           ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          "inclusiveFuture": "Rural Minnesota thrives when hospitals stay open and neighbors have work."
         }
       ],
       "betterPath": "Build prosperity for all in District 3: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Grant Hauschild is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "4": {
       "district": 4,
@@ -132,24 +133,23 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "This bill makes sure that the most vulnerable members of our community including seniors, children, and individuals with disabilities continue to have stable housing in their life.",
+          "context": "Vote advancing $9M supportive housing for northwest Minnesota",
+          "date": "2026-03",
+          "theme": "Shelter neighbor",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-kupec-votes-to-advance-supporting-housing-funds-for-northwest-minnesota/"
             }
           ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          "inclusiveFuture": "Stable housing for seniors and kids — that's prosperity with a roof."
         }
       ],
       "betterPath": "Build prosperity for all in District 4: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Rob Kupec is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "5": {
       "district": 5,
@@ -158,25 +158,25 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Utke",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "Whether it was from those who serve our disability community or those that serve the elderly, they see that funding to those service providers are being reduced—all at the same time that we see these costs for illegal immigrants going through the roof... We need to put Minnesotans first.",
+          "context": "GOP press conference on MinnesotaCare enrollment",
+          "date": "2025-04",
+          "theme": "Welcome stranger",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
           "sources": [
             {
-              "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "label": "Perham Focus",
+              "url": "https://www.perhamfocus.com/news/local/republican-lawmakers-in-mn-sound-alarm-on-surge-of-illegal-immigrants-enrolling-in-free-health-care-program"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "humor": "Pitting grandparents against neighbors is divide-and-conquer, not charity.",
+          "inclusiveFuture": "We can fund elder care AND welcome immigrants."
         }
       ],
       "faith": [],
       "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Paul Utke's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "6": {
       "district": 6,
@@ -185,25 +185,25 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Heintzeman",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "Nearly half of Minnesota students are failing to meet reading and math standards. That should be a wake-up call for every leader in this state... Classrooms should be places where children learn how to read, write, and do math, not tools to use in political debates.",
+          "context": "Statement on MCA test scores",
+          "date": "2025",
+          "theme": "Education",
+          "ntRef": "Matthew 18:6",
+          "ntText": "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.",
           "sources": [
             {
-              "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "label": "APG / hometownsource",
+              "url": "https://www.hometownsource.com/apgstate/heintzeman-statement-on-mca-scores-showing-half-of-students-failing-to-meet-math-and-reading/article_5ed82c1e-9337-5a02-b8b0-19d3b3b6d190.html"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "humor": "Replaced Eichorn after a prostitution sting — education rhetoric hits different from that caucus.",
+          "inclusiveFuture": "Every child deserves support, not culture-war fodder."
         }
       ],
       "faith": [],
       "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Keri Heintzeman's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "7": {
       "district": 7,
@@ -212,25 +212,24 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Farnsworth",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "This bill makes illegal immigrants and convicted criminals eligible for these funds, sending about one-third of the money to Hennepin county. The bill fails to put Minnesotans first.",
+          "context": "Opposition to $40M rental assistance bill",
+          "date": "2026",
+          "theme": "Shelter stranger",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
           "sources": [
             {
               "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "url": "https://www.mnsenaterepublicans.com/senator-farnsworth-opposes-bailout-for-criminals-illegal-immigrants-and-metro/"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "inclusiveFuture": "Safe housing for every Minnesotan makes whole communities stronger."
         }
       ],
       "faith": [],
       "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Robert Farnsworth's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "8": {
       "district": 8,
@@ -240,24 +239,23 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
+          "text": "I urge Minnesotans to challenge these narratives of scarcity. We can and should have the public goods we all deserve: universal healthcare, tuition-free education pre-K through higher ed, the ability to retire in comfort and security, affordable childcare, housing as a right, and a variety of thriving public goods and spaces, like libraries, parks and public transit, available to all.",
+          "context": "Statement on state budget forecast",
+          "date": "2025-03",
+          "theme": "Prosperity for all",
           "ntRef": "Matthew 25:40",
           "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-jen-mcewen-statement-on-state-budget-forecast/"
             }
           ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          "inclusiveFuture": "Scarcity is a choice. Minnesota can choose abundance for everyone."
         }
       ],
       "betterPath": "Build prosperity for all in District 8: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Jennifer McEwen is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "9": {
       "district": 9,
@@ -266,25 +264,39 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Rasmusson",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "I think Minnesota families expect that we are going to put their budgets first and not use their hard-earned tax dollars to subsidize illegal immigration.",
+          "context": "CBS Minnesota interview on rolling back immigrant benefits",
+          "date": "2025",
+          "theme": "Welcome stranger",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
           "sources": [
             {
-              "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "label": "CBS Minnesota",
+              "url": "https://www.cbsnews.com/minnesota/news/minnesota-undocumented-immigrant-proposed-roll-backs/"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "inclusiveFuture": "Minnesota families include immigrant families."
+        },
+        {
+          "text": "This is a program that unfortunately is incentivizing illegal immigrants to come here to Minnesota because of these benefits.",
+          "context": "WCCO Sunday Morning on MinnesotaCare",
+          "date": "2025-04-28",
+          "theme": "Healthcare access",
+          "ntRef": "Matthew 25:36",
+          "ntText": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
+          "sources": [
+            {
+              "label": "CBS Minnesota",
+              "url": "https://www.cbsnews.com/minnesota/news/minnesota-undocumented-immigrants-health-insurance-debate/"
+            }
+          ],
+          "humor": "Magnet theory meets Matthew 25 — the verse welcomes strangers."
         }
       ],
       "faith": [],
       "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Jordan Rasmusson's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "10": {
       "district": 10,
@@ -293,25 +305,41 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Wesenberg",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "Tim Walz belongs in prison, not office.",
+          "context": "Newsmax TV interview on state fraud",
+          "date": "2025-12-31",
+          "theme": "Peacemakers",
+          "ntRef": "Matthew 5:9",
+          "ntText": "Blessed are the peacemakers: for they shall be called the children of God.",
           "sources": [
             {
-              "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "label": "Newsmax",
+              "url": "https://rss.newsmax.com/newsmax-tv/nathan-wesenber-tim-walz-minnesota/2025/12/31/id/1240341/"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "humor": "Blessed are the peacemakers — not those leading with 'belongs in prison.'",
+          "inclusiveFuture": "Disagree on policy; skip the prison cosplay."
         }
       ],
-      "faith": [],
-      "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Nathan Wesenberg's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "faith": [
+        {
+          "text": "People are hurting — they are struggling to pay their bills and get food on their tables.",
+          "context": "Guest column on affordability",
+          "date": "2025",
+          "theme": "Feed the hungry",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
+          "sources": [
+            {
+              "label": "Brainerd Dispatch",
+              "url": "https://www.brainerddispatch.com/opinion/guest-opinion-a-bad-budget-and-missing-priorities"
+            }
+          ],
+          "inclusiveFuture": "When Republicans name the pain, let's meet with bread, not Bibles."
+        }
+      ],
+      "betterPath": "Nathan Wesenberg showed us Republicans can choose dignity over division. Minnesota needs more of that courage — feed the hungry, love every neighbor, steward creation.",
+      "hasDirectQuotes": true
     },
     "11": {
       "district": 11,
@@ -320,25 +348,40 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Rarick",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "They tried to tell people we're not coming after your hunting guns, (but) that piece of legislation is coming directly after your hunting guns.",
+          "context": "Post Bulletin interview on gun bills",
+          "date": "2025",
+          "theme": "Peacemakers",
+          "ntRef": "Matthew 5:9",
+          "ntText": "Blessed are the peacemakers: for they shall be called the children of God.",
           "sources": [
             {
-              "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "label": "Post Bulletin",
+              "url": "https://www.postbulletin.com/news/minnesota/minnesota-senator-explains-his-opposition-to-legislative-gun-control-bills"
             }
-          ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          ]
         }
       ],
-      "faith": [],
-      "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Jason Rarick's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "faith": [
+        {
+          "text": "ICE MUST follow the Constitution. ICE must immediately stop this behavior. ICE must stop racial profiling and violating civil rights as has been experienced and documented by LAW ENFORCEMENT.",
+          "context": "Facebook post during Operation Metro Surge (MN Reformer)",
+          "date": "2026",
+          "theme": "Dignity & justice",
+          "ntRef": "Micah 6:8",
+          "ntText": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
+          "sources": [
+            {
+              "label": "Minnesota Reformer",
+              "url": "https://minnesotareformer.com/2026/03/26/republicans-experienced-a-very-different-operation-metro-surge/"
+            }
+          ],
+          "humor": "Plot twist: the Republican who remembered the Constitution.",
+          "inclusiveFuture": "This is the GOP voice Minnesota needs more of."
+        }
+      ],
+      "betterPath": "Jason Rarick showed us Republicans can choose dignity over division. Minnesota needs more of that courage — feed the hungry, love every neighbor, steward creation.",
+      "hasDirectQuotes": true
     },
     "12": {
       "district": 12,
@@ -359,7 +402,6 @@
               "url": "https://www.grandforksherald.com/news/minnesota/minnesota-senator-suggests-releasing-wolves-into-peoples-yards-who-do-not-want-a-wolf-hunt"
             }
           ],
-          "humor": "Blessed are the peacemakers — unless you disagree about wolves, then blessed are the backyard releases.",
           "inclusiveFuture": "Rural and urban Minnesotans can solve wildlife policy without revenge fantasies."
         }
       ],
@@ -374,25 +416,41 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Howe",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "How are we going to explain to our loved ones in these facilities... that they thought it was more important to preserve MNCare access for those here illegally?",
+          "context": "Condemning HHS budget with nursing-home cuts",
+          "date": "2025",
+          "theme": "Healthcare triage",
+          "ntRef": "Matthew 25:36",
+          "ntText": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
           "sources": [
             {
               "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "url": "https://www.mnsenaterepublicans.com/howe-condemns-human-services-budget-that-cuts-services-for-most-vulnerable-minnesotans-and-hits-district-13-with-crippling-nursing-home-cuts/"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "humor": "False choice: elders vs. neighbors.",
+          "inclusiveFuture": "Fund nursing homes AND immigrant healthcare."
         }
       ],
-      "faith": [],
-      "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Jeff Howe's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "faith": [
+        {
+          "text": "We should also remember to treat one another with the dignity, respect, and kindness that everyone deserves.",
+          "context": "Statement after Minneapolis ICE-involved shooting",
+          "date": "2026-01-08",
+          "theme": "Dignity",
+          "ntRef": "Matthew 22:39",
+          "ntText": "Thou shalt love thy neighbour as thyself.",
+          "sources": [
+            {
+              "label": "MN Senate Republicans",
+              "url": "https://www.mnsenaterepublicans.com/howe-statement-on-yesterdays-ice-incident-in-minneapolis/"
+            }
+          ],
+          "inclusiveFuture": "Kindness after violence — that's the Minnesota we can build."
+        }
+      ],
+      "betterPath": "Jeff Howe showed us Republicans can choose dignity over division. Minnesota needs more of that courage — feed the hungry, love every neighbor, steward creation.",
+      "hasDirectQuotes": true
     },
     "14": {
       "district": 14,
@@ -402,24 +460,23 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "County workers are doing everything they can to connect residents with critical services, but these outdated IT systems make that job far harder than it needs to be.",
+          "context": "Stearns County demo on human services IT",
+          "date": "2026-03",
+          "theme": "Feed the hungry",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-putnam-highlights-need-to-modernize-human-services-enrollment-it-systems-in-the-fight-against-fraud/"
             }
           ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          "inclusiveFuture": "Modern systems get food and aid to families faster."
         }
       ],
       "betterPath": "Build prosperity for all in District 14: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Aric Putnam is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "15": {
       "district": 15,
@@ -428,25 +485,24 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Dahms",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "I strongly oppose any attempts to make Minnesota a sanctuary state from federal immigration laws.",
+          "context": "2024 session column opposing North STAR Act",
+          "date": "2024-02-17",
+          "theme": "Welcome stranger",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
           "sources": [
             {
-              "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "label": "Marshall Independent",
+              "url": "https://www.marshallindependent.com/opinion/local-columns/2024/02/dedicate-this-session-to-correcting-bill-past-last-year/"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "inclusiveFuture": "Minnesota can be welcoming AND lawful — fear isn't policy."
         }
       ],
       "faith": [],
       "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Gary Dahms's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "16": {
       "district": 16,
@@ -455,25 +511,41 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Lang",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "I am in favor of construction of a wall and other necessary infrastructure on our border that gives complete control over entering and exiting the United States.",
+          "context": "iVoterGuide candidate questionnaire",
+          "date": "2022",
+          "theme": "Welcome stranger",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
           "sources": [
             {
-              "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "label": "iVoterGuide",
+              "url": "https://ivoterguide.com/candidate/50494/race/12095/election/981"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "humor": "Walls vs. 'same side' — pick a lane."
         }
       ],
-      "faith": [],
-      "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Andrew Lang's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "faith": [
+        {
+          "text": "Lang says we are all on the same side.",
+          "context": "KWKR interview defending peaceful protest rights",
+          "date": "2026-01",
+          "theme": "Peacemaking",
+          "ntRef": "Matthew 5:9",
+          "ntText": "Blessed are the peacemakers: for they shall be called the children of God.",
+          "sources": [
+            {
+              "label": "Willmar Radio",
+              "url": "https://www.willmarradio.com/news/senator-lang-defends-right-to-protest-but-interference-with-operations-can-be-tragic/article_22d8c29c-6396-4717-bdfe-bded20057cc7.html"
+            }
+          ],
+          "inclusiveFuture": "Minnesota needs more 'same side' energy.",
+          "note": "Reporter paraphrase of on-air quote."
+        }
+      ],
+      "betterPath": "Andrew Lang showed us Republicans can choose dignity over division. Minnesota needs more of that courage — feed the hungry, love every neighbor, steward creation.",
+      "hasDirectQuotes": true
     },
     "17": {
       "district": 17,
@@ -494,7 +566,6 @@
               "url": "https://www.startribune.com/gruenhagen-homosexuality-is-a-sexual-addiction/193674061/"
             }
           ],
-          "humor": "Love thy neighbor — unless thy neighbor needs equal rights, apparently.",
           "inclusiveFuture": "Minnesota families come in every shape. Dignity isn't optional."
         },
         {
@@ -509,13 +580,11 @@
               "label": "Session Daily",
               "url": "https://www.house.leg.state.mn.us/sessiondaily/Story/17156"
             }
-          ],
-          "humor": "Blessed are the peacemakers — and also the people who read thermometers.",
-          "inclusiveFuture": "Caring for creation is caring for the next generation of Minnesotans."
+          ]
         },
         {
           "text": "Women need to understand that abortion and pornography sends a certain message to men.",
-          "context": "Domestic violence policy discussion",
+          "context": "Domestic violence discussion",
           "date": "2023-03",
           "theme": "Protect vulnerable",
           "ntRef": "Matthew 23:27",
@@ -529,9 +598,7 @@
               "label": "Star Tribune",
               "url": "https://www.startribune.com/ethics-panel-takes-up-complaint-against-republican-senator-who-sent-graphic-video-link/600364366"
             }
-          ],
-          "humor": "Blaming survivors while mailing graphic videos to colleagues is quite the flex.",
-          "inclusiveFuture": "Justice for survivors — full stop. No victim-blaming dressed as virtue."
+          ]
         }
       ],
       "faith": [],
@@ -546,24 +613,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "By equipping our care workers with the necessary resources, we affirm our commitment to the dignity and well-being of our aging loved ones.",
+          "context": "Nursing-home stabilization funding announcement",
+          "date": "2024-08",
+          "theme": "Healthcare",
+          "ntRef": "Matthew 25:36",
+          "ntText": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-nick-frentz-announces-a-total-of-1-03-million-will-go-out-in-august-to-four-nursing-homes-in-district-18/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 18: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Nick Frentz is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "19": {
       "district": 19,
@@ -572,25 +637,23 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Jasinski",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "They want to trust their government again. They want the fraud and mismanagement to stop. They want things to feel fair and well run.",
+          "context": "Statement on Gov. Walz not seeking reelection",
+          "date": "2026-01-05",
+          "theme": "Governance",
+          "ntRef": "Micah 6:8",
+          "ntText": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
           "sources": [
             {
               "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "url": "https://www.mnsenaterepublicans.com/statement-from-senator-john-jasinski-about-governor-walzs-decision-to-not-seek-reelection/"
             }
-          ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          ]
         }
       ],
       "faith": [],
       "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. John Jasinski's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "20": {
       "district": 20,
@@ -600,7 +663,7 @@
       "hypocrisy": [
         {
           "text": "I have yet to meet a person in Minnesota that is hungry.",
-          "context": "Senate floor debate on universal free school meals",
+          "context": "Senate floor debate on free school meals",
           "date": "2023-03-14",
           "theme": "Feed the hungry",
           "ntRef": "Matthew 25:35",
@@ -615,32 +678,27 @@
               "url": "https://www.nbcnews.com/politics/politics-news/state-gop-senator-says-never-met-hungry-minnesotan-rcna74969"
             }
           ],
-          "humor": "One in five kids in his own district qualify for free lunch — he may want to meet them.",
-          "inclusiveFuture": "Every child deserves a full belly so they can learn. That's prosperity, not socialism."
+          "humor": "One in five kids in his district qualify for free lunch.",
+          "inclusiveFuture": "Every child deserves a full belly so they can learn."
         },
         {
           "text": "Hunger is a relative term. I had a cereal bar for breakfast — I guess I'm hungry now.",
-          "context": "Same floor speech, moments later",
+          "context": "Same floor speech",
           "date": "2023-03-14",
           "theme": "Feed the hungry",
           "ntRef": "Matthew 25:35",
           "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
           "sources": [
             {
-              "label": "Star Tribune",
-              "url": "https://www.startribune.com/minnesota-free-school-meals/600259084"
-            },
-            {
               "label": "The Independent",
               "url": "https://www.the-independent.com/news/world/americas/us-politics/minnesota-free-school-meals-republican-b2301038.html"
             }
           ],
-          "humor": "A cereal bar is not a school lunch program. Minnesota kids aren't asking for relative hunger.",
-          "inclusiveFuture": "Feed the kids first. Worry about your breakfast metaphors second."
+          "humor": "A cereal bar is not a school lunch program."
         },
         {
           "text": "This is pure socialism.",
-          "context": "Opposing the same school meals bill",
+          "context": "Opposing school meals bill",
           "date": "2023-03-14",
           "theme": "Feed the hungry",
           "ntRef": "Matthew 25:35",
@@ -651,8 +709,7 @@
               "url": "https://www.nbcnews.com/politics/politics-news/state-gop-senator-says-never-met-hungry-minnesotan-rcna74969"
             }
           ],
-          "humor": "Jesus feeding five thousand with loaves and fishes was also pretty popular.",
-          "inclusiveFuture": "Shared meals build shared futures — that's Minnesota, not Moscow."
+          "humor": "Jesus feeding five thousand was also pretty popular."
         }
       ],
       "faith": [],
@@ -666,25 +723,24 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Weber",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "It was the most-disgusting end to a session in the 12 years I've been here.",
+          "context": "Reaction to 2024 omnibus end-of-session deal",
+          "date": "2024-05-20",
+          "theme": "Legislative process",
+          "ntRef": "Matthew 7:5",
+          "ntText": "Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.",
           "sources": [
             {
-              "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "label": "Twin Cities Business",
+              "url": "https://tcbmag.com/chaotic-close-to-minnesotas-2024-legislative-session/"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "humor": "Called the omnibus a 'garbage bill' in the same remarks."
         }
       ],
       "faith": [],
       "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Bill Weber's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "22": {
       "district": 22,
@@ -693,25 +749,59 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Draheim",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "We cannot justify spending hundreds of millions on individuals who broke the law to enter the country while we face cuts to special education, nursing homes, and disability services.",
+          "context": "Comment on MinnesotaCare repeal for undocumented adults",
+          "date": "2025-06",
+          "theme": "Healthcare triage",
+          "ntRef": "Matthew 25:36",
+          "ntText": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
           "sources": [
             {
-              "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "label": "Alpha News",
+              "url": "https://alphanews.org/legislature-passes-bill-repealing-minnesotacare-for-illegal-immigrant-adults/"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "inclusiveFuture": "Fund schools AND neighbors — false choices help nobody.",
+          "note": "Caucus floor position; same month Draheim published a contrasting dialogue column."
         }
       ],
-      "faith": [],
-      "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Rich Draheim's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "faith": [
+        {
+          "text": "They want a transparent, realistic path to legal status for [people] who are hardworking, raising families, contributing to their communities, and filling critical jobs.",
+          "context": "Guest column on ICE enforcement",
+          "date": "2026-01",
+          "theme": "Welcome stranger",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
+          "sources": [
+            {
+              "label": "Marshall Independent",
+              "url": "https://www.marshallindependent.com/opinion/local-columns/2026/01/whats-missing-from-ice-conversation-dialogue/"
+            },
+            {
+              "label": "MN Senate Republicans",
+              "url": "https://www.mnsenaterepublicans.com/draheim-whats-missing-from-the-ice-conversation-dialogue/"
+            }
+          ],
+          "inclusiveFuture": "Dialogue over shouting — Minnesota at its best."
+        },
+        {
+          "text": "If we want less shouting, fewer confrontations, and fewer lives lost, the answer isn't louder rhetoric. It's dialogue, and it's long overdue.",
+          "context": "Same ICE column",
+          "date": "2026-01",
+          "theme": "Peacemaking",
+          "ntRef": "Matthew 5:9",
+          "ntText": "Blessed are the peacemakers: for they shall be called the children of God.",
+          "sources": [
+            {
+              "label": "Marshall Independent",
+              "url": "https://www.marshallindependent.com/opinion/local-columns/2026/01/whats-missing-from-ice-conversation-dialogue/"
+            }
+          ]
+        }
+      ],
+      "betterPath": "Rich Draheim showed us Republicans can choose dignity over division. Minnesota needs more of that courage — feed the hungry, love every neighbor, steward creation.",
+      "hasDirectQuotes": true
     },
     "23": {
       "district": 23,
@@ -721,7 +811,7 @@
       "hypocrisy": [
         {
           "text": "Can you tell me what a typical work week looks like for you as a stewardess?",
-          "context": "Labor committee hearing — addressed to a Delta first officer",
+          "context": "Labor committee — addressed to Delta first officer",
           "date": "2024-03",
           "theme": "Dignity at work",
           "ntRef": "Galatians 5:22",
@@ -736,8 +826,8 @@
               "url": "https://www.cbsnews.com/minnesota/news/minnesota-senator-calls-delta-pilot-a-stewardess-during-senate-labor-committee/"
             }
           ],
-          "humor": "He apologized immediately — 'I don't know why I said that.' Neither do we, senator.",
-          "inclusiveFuture": "Every worker deserves respect, whether they're at 30,000 feet or on the Senate floor."
+          "humor": "He apologized: 'I don't know why I said that.' Neither do we.",
+          "inclusiveFuture": "Every worker deserves respect at 30,000 feet or on the Senate floor."
         }
       ],
       "faith": [],
@@ -751,25 +841,41 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Nelson",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "Serving the people of Rochester and southeastern Minnesota has been a great privilege and responsibility.",
+          "context": "Retirement announcement",
+          "date": "2026",
+          "theme": "Public service",
+          "ntRef": "Micah 6:8",
+          "ntText": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
           "sources": [
             {
               "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "url": "https://www.mnsenaterepublicans.com/senator-carla-nelson-announces-retirement-from-minnesota-senate/"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "humor": "Twenty years of constituent service vs. one year of commemorative Bibles.",
+          "inclusiveFuture": "Leadership rooted in listening beats performative faith."
         }
       ],
-      "faith": [],
-      "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Carla Nelson's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "faith": [
+        {
+          "text": "After my father received an Alzheimer's diagnosis, I authored the Alzheimer's Research and Support Act, creating a competitive grant program for research and caregiver services.",
+          "context": "Retirement statement on legislative legacy",
+          "date": "2026",
+          "theme": "Heal sick",
+          "ntRef": "Matthew 25:36",
+          "ntText": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
+          "sources": [
+            {
+              "label": "MN Senate Republicans",
+              "url": "https://www.mnsenaterepublicans.com/senator-carla-nelson-announces-retirement-from-minnesota-senate/"
+            }
+          ],
+          "inclusiveFuture": "Compassion policy from personal pain — that's scripture lived."
+        }
+      ],
+      "betterPath": "Carla Nelson showed us Republicans can choose dignity over division. Minnesota needs more of that courage — feed the hungry, love every neighbor, steward creation.",
+      "hasDirectQuotes": true
     },
     "25": {
       "district": 25,
@@ -779,20 +885,33 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Housing is a human right. Every Minnesotan deserves a safe place to call home.",
-          "context": "Housing committee advocacy",
-          "date": "2024",
-          "theme": "Shelter stranger",
+          "text": "Minnesotans deserve to live with dignity and respect, no matter where they live.",
+          "context": "Manufactured Home Park Residents' Bill of Rights passage",
+          "date": "2025",
+          "theme": "Housing dignity",
           "ntRef": "Matthew 25:35",
           "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
           "sources": [
             {
               "label": "Senate DFL",
-              "url": "https://senatedfl.mn/"
+              "url": "https://senatedfl.mn/senator-liz-boldon-ushers-manufactured-home-park-residents-bill-of-rights-to-senate-passage/"
             }
           ],
-          "note": "Consistent public position — verify at Housing committee hearings.",
-          "inclusiveFuture": "Affordable homes are the foundation of inclusive prosperity."
+          "inclusiveFuture": "Housing is a human right — not a Wall Street cash cow."
+        },
+        {
+          "text": "Housing is not meant to be a cash cow for Wall Street — it's meant to be a place for Minnesotans to come home at the end of the day, rest, cook, play, get together, raise a family, and build memories.",
+          "context": "Same bill statement",
+          "date": "2025",
+          "theme": "Shelter neighbor",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
+          "sources": [
+            {
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-liz-boldon-ushers-manufactured-home-park-residents-bill-of-rights-to-senate-passage/"
+            }
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 25: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Liz Boldon is working toward.",
@@ -805,25 +924,42 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Miller",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "There is a line in the sand.",
+          "context": "Caucus accountability after Eichorn prostitution charges",
+          "date": "2025-03",
+          "theme": "Accountability",
+          "ntRef": "Matthew 23:4",
+          "ntText": "For they bind heavy burdens and grievous to be borne, and lay them on men's shoulders; but they themselves will not move them with one of their fingers.",
           "sources": [
             {
-              "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "label": "Star Tribune",
+              "url": "https://www.startribune.com/gop-state-sen-justin-eichorn-resigns-after-arrest-in-underage-prostitution-sting/601240150"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "humor": "Leadership that draws lines — apply it to feeding kids too.",
+          "inclusiveFuture": "Same moral standard for every issue, not just scandals.",
+          "note": "Miller served as Senate President during expulsion debate."
         }
       ],
-      "faith": [],
-      "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Jeremy Miller's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "faith": [
+        {
+          "text": "The bottom line is this: partisanship leads to polarization. Polarization leads to a dysfunctional government. And a dysfunctional government loses the trust of the people… Minnesotans want their elected officials working together and getting things done.",
+          "context": "Farewell speech on last day of 2026 session",
+          "date": "2026-05-18",
+          "theme": "Peacemaking",
+          "ntRef": "Matthew 5:9",
+          "ntText": "Blessed are the peacemakers: for they shall be called the children of God.",
+          "sources": [
+            {
+              "label": "Austin Daily Herald",
+              "url": "https://www.austindailyherald.com/opinion/partisanship-leads-to-polarization-a9038ea4"
+            }
+          ],
+          "inclusiveFuture": "Bipartisanship isn't weakness — it's how Minnesota works."
+        }
+      ],
+      "betterPath": "Jeremy Miller showed us Republicans can choose dignity over division. Minnesota needs more of that courage — feed the hungry, love every neighbor, steward creation.",
+      "hasDirectQuotes": true
     },
     "27": {
       "district": 27,
@@ -832,25 +968,24 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Mathews",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "These are do-nothing executive orders that are meaningless and trying to distract from the Walz fraud scandals.",
+          "context": "Response to Gov. Walz gun-violence executive orders",
+          "date": "2025-12-16",
+          "theme": "School safety",
+          "ntRef": "Matthew 18:6",
+          "ntText": "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.",
           "sources": [
             {
               "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "url": "https://www.mnsenaterepublicans.com/mathews-responds-to-governor-walzs-executive-orders-on-guns/"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "note": "Same release proposed SRO funding for every school."
         }
       ],
       "faith": [],
       "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Andrew Mathews's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "28": {
       "district": 28,
@@ -859,25 +994,24 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Koran",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "The agenda is so heinous, removing parental rights, the transgender ideology which puts our children in harm's way.",
+          "context": "Fox News interview on Walz/DFL record",
+          "date": "2024",
+          "theme": "Love neighbor",
+          "ntRef": "Matthew 22:39",
+          "ntText": "Thou shalt love thy neighbour as thyself.",
           "sources": [
             {
-              "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "label": "Fox News",
+              "url": "https://www.foxnews.com/politics/minnesota-lawmaker-sounds-alarm-gov-walzs-radical-agenda-election-heinous"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "inclusiveFuture": "Trans Minnesotans are neighbors, not ideology."
         }
       ],
       "faith": [],
       "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Mark Koran's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "29": {
       "district": 29,
@@ -886,25 +1020,39 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Holmstrom",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "Minnesotans do not support unmitigated infanticide.",
+          "context": "Judiciary committee on abortion amendment",
+          "date": "2026",
+          "theme": "Compassion",
+          "ntRef": "John 8:7",
+          "ntText": "He that is without sin among you, let him first cast a stone at her.",
           "sources": [
             {
               "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "url": "https://www.mnsenaterepublicans.com/sen-holmstrom-fights-to-protect-life-and-title-ix/"
             }
-          ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          ]
         }
       ],
-      "faith": [],
-      "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Michael Holmstrom's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "faith": [
+        {
+          "text": "All students deserve equal school safety aid, whether they attend public, private, or tribal schools.",
+          "context": "Amendment on equal private-school safety funding",
+          "date": "2025",
+          "theme": "Protect children",
+          "ntRef": "Matthew 18:6",
+          "ntText": "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.",
+          "sources": [
+            {
+              "label": "MN Senate Republicans",
+              "url": "https://www.mnsenaterepublicans.com/senator-holmstrom-fights-for-equal-school-safety-funding-for-private-schools/"
+            }
+          ],
+          "inclusiveFuture": "Every child deserves safety — full stop."
+        }
+      ],
+      "betterPath": "Michael Holmstrom showed us Republicans can choose dignity over division. Minnesota needs more of that courage — feed the hungry, love every neighbor, steward creation.",
+      "hasDirectQuotes": true
     },
     "30": {
       "district": 30,
@@ -913,25 +1061,23 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Lucero",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "Their contributions are insulted every time we normalize those who broke the law.",
+          "context": "Column opposing driver's licenses for undocumented immigrants",
+          "date": "2023",
+          "theme": "Welcome stranger",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
           "sources": [
             {
               "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "url": "https://www.mnsenaterepublicans.com/lucero-the-dangers-of-democrats-bill-to-give-illegal-immigrants-drivers-licenses/"
             }
-          ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          ]
         }
       ],
       "faith": [],
       "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Eric Lucero's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "31": {
       "district": 31,
@@ -941,7 +1087,7 @@
       "hypocrisy": [
         {
           "text": "If you're gonna party, you got to pay the consequences.",
-          "context": "Leaked caucus audio on abortion access",
+          "context": "Leaked caucus audio on abortion",
           "date": "2024-03",
           "theme": "Compassion",
           "ntRef": "John 8:7",
@@ -952,8 +1098,7 @@
               "url": "https://www.fox9.com/news/dfl-responds-mn-gop-legislators-comment-why-he-opposes-abortion"
             }
           ],
-          "humor": "Christ stopped a public stoning. Different energy.",
-          "inclusiveFuture": "Compassion for complex medical decisions — not punishment cosplay."
+          "humor": "Christ stopped a public stoning. Different energy."
         }
       ],
       "faith": [],
@@ -967,25 +1112,24 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Kreun",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "This new office is going to be a major tool to create a culture of accountability here in Minnesota. This independent agency will be the watchdog of taxpayers.",
+          "context": "Senate floor remarks before Office of Inspector General vote",
+          "date": "2026-05",
+          "theme": "Accountability",
+          "ntRef": "Micah 6:8",
+          "ntText": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
           "sources": [
             {
-              "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "label": "Sahan Journal",
+              "url": "https://sahanjournal.com/news/minnesota-legislature-fraud-office-of-inspector-general/"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "inclusiveFuture": "Accountability serves everyone — bipartisan when done right."
         }
       ],
       "faith": [],
       "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Michael Kreun's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "33": {
       "district": 33,
@@ -994,25 +1138,45 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Housley",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "Elder abuse is something that cannot – and will not – be tolerated. The elderly are some of Minnesota's most vulnerable and to take advantage of that vulnerability is truly reprehensible.",
+          "context": "Response to Star Tribune senior-living abuse investigation",
+          "date": "2017",
+          "theme": "Protect vulnerable",
+          "ntRef": "Matthew 25:40",
+          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
           "sources": [
             {
               "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "url": "https://www.mnsenaterepublicans.com/senator-housley-responds-star-tribune-report-detailing-abuse-neglect-minnesota-senior-living-facilities/"
+            },
+            {
+              "label": "Star Tribune",
+              "url": "https://www.startribune.com/victims-denounce-a-failing-state-system-for-responding-to-reports-of-elder-abuse/474713293/"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "humor": "Fierce advocate for elders — apply that same fire to hungry kids and immigrant neighbors.",
+          "inclusiveFuture": "Protect EVERY vulnerable Minnesotan consistently."
         }
       ],
-      "faith": [],
-      "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Karin Housley's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "faith": [
+        {
+          "text": "Any type of tax relief we can give these families will be a welcome break.",
+          "context": "Star Tribune on Toddler Tax Credit proposal",
+          "date": "2017",
+          "theme": "Family affordability",
+          "ntRef": "Matthew 25:40",
+          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "sources": [
+            {
+              "label": "Star Tribune",
+              "url": "https://www.startribune.com/gop-senator-proposes-toddler-tax-credit-for-minnesotans-with-young-children/294095371/"
+            }
+          ],
+          "inclusiveFuture": "Tax relief for young families is good — so is healthcare for all families."
+        }
+      ],
+      "betterPath": "Karin Housley showed us Republicans can choose dignity over division. Minnesota needs more of that courage — feed the hungry, love every neighbor, steward creation.",
+      "hasDirectQuotes": true
     },
     "34": {
       "district": 34,
@@ -1022,52 +1186,33 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
+          "text": "We cannot balance our budget at the expense of those who have no other safety net. We need sustainable long-term solutions that reflect our shared belief in dignity and opportunity for all Minnesotans.",
+          "context": "Statement on March 2025 budget forecast",
+          "date": "2025-03-06",
+          "theme": "Healthcare",
           "ntRef": "Matthew 25:40",
           "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-john-hoffman-statement-on-minnesota-budget-forecast/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 34: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota John Hoffman is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "35": {
       "district": 35,
       "senator": "Jim Abeler",
       "party": "R",
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Abeler",
-      "hypocrisy": [
-        {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
-          "sources": [
-            {
-              "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
-            }
-          ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
-        }
-      ],
+      "hypocrisy": [],
       "faith": [
         {
           "text": "No man, woman or child is more or less in the eyes of our Lord... none of them are trash.",
-          "context": "Public letter defending Somali Minnesotans against racist attacks",
+          "context": "Letter defending Somali Minnesotans",
           "date": "2025-12",
           "theme": "Dignity",
           "ntRef": "Matthew 25:40",
@@ -1079,7 +1224,7 @@
             }
           ],
           "humor": "Plot twist: the Republican who remembered Matthew 25.",
-          "inclusiveFuture": "This is the Minnesota we can all build — neighbors defending neighbors."
+          "inclusiveFuture": "Neighbors defending neighbors — that's our Minnesota."
         }
       ],
       "betterPath": "Jim Abeler showed us Republicans can choose dignity over division. Minnesota needs more of that courage — feed the hungry, love every neighbor, steward creation.",
@@ -1103,14 +1248,9 @@
             {
               "label": "CBS Minnesota",
               "url": "https://www.cbsnews.com/minnesota/news/i-have-yet-to-meet-a-person-in-minnesota-that-is-hungry-outrage-follows-sen-drazkowskis-comments-on-free-school-meals/"
-            },
-            {
-              "label": "NBC News",
-              "url": "https://www.nbcnews.com/politics/politics-news/state-gop-senator-says-never-met-hungry-minnesotan-rcna74969"
             }
           ],
-          "humor": "A teacher wrote the bill. A colleague said hunger doesn't exist. You decide.",
-          "inclusiveFuture": "Full classrooms start with full stomachs — that's how Minnesota wins."
+          "humor": "A teacher wrote the bill. A colleague said hunger doesn't exist."
         }
       ],
       "betterPath": "Build prosperity for all in District 36: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Heather Gustafson is working toward.",
@@ -1135,8 +1275,7 @@
               "url": "https://www.mnsenaterepublicans.com/senator-limmer-warns-chickens-coming-home-to-roost-due-to-looming-5-billion-deficit/"
             }
           ],
-          "humor": "The beam in thine own eye is also a bird, apparently.",
-          "inclusiveFuture": "Honest budgeting serves every Minnesotan — not just caucus talking points."
+          "humor": "The beam in thine own eye is also a bird."
         }
       ],
       "faith": [],
@@ -1162,9 +1301,7 @@
               "label": "Senate DFL",
               "url": "https://senatedfl.mn/senator-susan-phas-statement-regarding-budget-negotiations-and-minnesotacare-for-undocumented-minnesotans/"
             }
-          ],
-          "humor": "She said the quiet part out loud — and backed it up with community stories.",
-          "inclusiveFuture": "Healthcare for neighbors isn't charity. It's how healthy states prosper."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 38: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Susan Pha is working toward.",
@@ -1178,20 +1315,33 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "We cannot fully address the needs of our state until we address the needs of Indigenous communities and all communities of color.",
-          "context": "Floor speech on equity and ERA",
-          "date": "2023",
+          "text": "Our neighbors deserve to live their lives in peace, free from this terror being inflicted on our community by our own federal government. Our students belong with their friends and classmates in school.",
+          "context": "Statement on Columbia Heights student released from ICE detention",
+          "date": "2025",
+          "theme": "Welcome stranger",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
+          "sources": [
+            {
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-mary-kunesh-responds-to-release-of-columbia-heights-student-and-father-from-ice-detention-in-texas/"
+            }
+          ],
+          "inclusiveFuture": "We welcome immigrants, feed our children, and take care of each other — that's Minnesota."
+        },
+        {
+          "text": "Without an explicit guarantee that these rights are protected and are held equally by all citizens, we legislators are not representing our constituents across Minnesota in the best way.",
+          "context": "Testimony on constitutional equality amendment",
+          "date": "2023-03-06",
           "theme": "Justice",
           "ntRef": "Micah 6:8",
           "ntText": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
           "sources": [
             {
               "label": "Senate DFL",
-              "url": "https://senatedfl.mn/"
+              "url": "https://senatedfl.mn/senator-mary-kunesh-testifies-on-her-bill-to-amend-minnesota-constitution-to-ensure-equality-for-all/"
             }
-          ],
-          "note": "Paraphrase from public floor remarks — verify at Senate video archive.",
-          "inclusiveFuture": "An inclusive Minnesota starts by listening to every community at the table."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 39: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Mary Kunesh is working toward.",
@@ -1205,20 +1355,33 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Healthcare is a human right — not a privilege for those who can afford it.",
-          "context": "Healthcare policy remarks",
-          "date": "2023",
+          "text": "Almost half (45%) of Minnesotans reported having to delay or forgo needed health care due to cost last year.",
+          "context": "Lead author statement on Minnesota Health Plan",
+          "date": "2025",
           "theme": "Heal sick",
           "ntRef": "Matthew 25:36",
           "ntText": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
           "sources": [
             {
               "label": "Senate DFL",
-              "url": "https://senatedfl.mn/"
+              "url": "https://senatedfl.mn/dfl-legislators-call-for-bold-healthcare-reform-with-proposed-minnesota-health-plan/"
             }
           ],
-          "note": "Long-standing public position — see Senate Finance committee archives.",
-          "inclusiveFuture": "Healthy Minnesotans build a healthy economy for everyone."
+          "inclusiveFuture": "Medical decisions belong to patients and doctors — not insurance companies."
+        },
+        {
+          "text": "Paying medical providers directly for the care they deliver to patients and eliminating the use of HMOs as a middleman will benefit patients, providers, and the state's bottom line.",
+          "context": "Statement on Patient-Centered Care legislation",
+          "date": "2026",
+          "theme": "Healthcare",
+          "ntRef": "Matthew 25:36",
+          "ntText": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
+          "sources": [
+            {
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-martys-legislation-to-kick-insurance-companies-out-of-minnesota-healthcare-programs-receives-hearing-governor-walz-issues-statement-supporting-the-proposal/"
+            }
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 40: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota John Marty is working toward.",
@@ -1232,24 +1395,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "Minnesotans expect and deserve the water they use every day in their lives to be safe.",
+          "context": "Statement on PFAS standards and Hastings water upgrades",
+          "date": "2024-04-10",
+          "theme": "Dignity",
+          "ntRef": "Matthew 25:36",
+          "ntText": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/new-pfas-standards-reveal-urgent-need-for-hastings-water-upgrades-says-senator-seeberger/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 41: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Judy Seeberger is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "42": {
       "district": 42,
@@ -1259,20 +1420,33 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Reproductive freedom is healthcare. Minnesotans deserve privacy in their medical decisions.",
-          "context": "Health policy floor remarks",
-          "date": "2023",
-          "theme": "Compassion",
-          "ntRef": "John 8:7",
-          "ntText": "He that is without sin among you, let him first cast a stone at her.",
+          "text": "We cannot allow billionaires and dark money super PACs to bribe Minnesotans with money or prizes into voting or not voting a certain way.",
+          "context": "Bill presentation on election bribery prohibition",
+          "date": "2025-03-25",
+          "theme": "Justice",
+          "ntRef": "Micah 6:8",
+          "ntText": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
           "sources": [
             {
               "label": "Senate DFL",
-              "url": "https://senatedfl.mn/"
+              "url": "https://senatedfl.mn/senator-bonnie-westlin-presents-bill-to-prevent-bribery-in-minnesotas-electoral-system/"
             }
           ],
-          "note": "Public floor position — verify at Senate video archive.",
-          "inclusiveFuture": "Trust Minnesotans to make their own healthcare choices with their doctors."
+          "inclusiveFuture": "One person, one vote — democracy is sacred."
+        },
+        {
+          "text": "Everything we do in the Senate, everything we have in our society, is foundational on the right to vote. The democratic process is the cornerstone of what it means to be an American – one person, one vote.",
+          "context": "Elections policy bill passage",
+          "date": "2026-04-23",
+          "theme": "Justice",
+          "ntRef": "Micah 6:8",
+          "ntText": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
+          "sources": [
+            {
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senate-passes-elections-policy-bill/"
+            }
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 42: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Bonnie Westlin is working toward.",
@@ -1286,24 +1460,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "Minnesotans are increasingly worried about the rising prices of gas, groceries and health care which federal actions and policies are accelerating and that target our state.",
+          "context": "Senate Taxes Committee advancing tax bill",
+          "date": "2026-03-05",
+          "theme": "Healthcare",
+          "ntRef": "Matthew 25:36",
+          "ntText": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-ann-rest-senate-taxes-committee-advances-tax-bill/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 43: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Ann Rest is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "44": {
       "district": 44,
@@ -1313,24 +1485,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "Undocumented residents who live, work, and raise families among us deserve the opportunity to use our roads legally and safely. I am proud to cast these votes to make Minnesota a more just, welcoming, and safer state.",
+          "context": "Senate passage of Restore the Vote and Driver's Licenses for All",
+          "date": "2023-02-22",
+          "theme": "Welcome stranger",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/members-of-senate-poci-caucus-praise-historic-passage-of-restore-the-vote-and-drivers-licenses-for-all/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 44: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Tou Xiong is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "45": {
       "district": 45,
@@ -1340,24 +1510,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "Thousands of people rely on these waters to drink, cook, bathe, and nourish the produce and crops that feed our communities.",
+          "context": "Statement on Boundary Waters mining protection",
+          "date": "2025-11-03",
+          "theme": "Feed the hungry",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-ann-johnson-stewart-applauds-executive-order-protecting-the-boundary-waters/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 45: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Ann Johnson Stewart is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "46": {
       "district": 46,
@@ -1367,24 +1535,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "Every Minnesotan, regardless of immigration status, has rights outlined in our Constitution that include the right against unreasonable search and seizure, the right to due process, and the right to seek counsel.",
+          "context": "Statement on constitutional rights of detainees",
+          "date": "2026-01-12",
+          "theme": "Justice",
+          "ntRef": "Micah 6:8",
+          "ntText": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-ron-latz-federal-authorities-must-honor-constitutional-rights-of-all-minnesotans-including-detainees/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 46: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Ron Latz is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "47": {
       "district": 47,
@@ -1394,24 +1560,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
+          "text": "Cryptocurrency scams have targeted some of our most vulnerable neighbors who have lost tens of thousands of dollars. In an instant, that money is gone with very little chance of recovery.",
+          "context": "Statement on crypto kiosk ban for elder fraud",
+          "date": "2026-04-27",
+          "theme": "Protect vulnerable",
           "ntRef": "Matthew 25:40",
           "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senate-passes-crypto-kiosk-ban/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 47: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Amanda Hemmingsen-Jaeger is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "48": {
       "district": 48,
@@ -1432,8 +1596,7 @@
               "url": "https://www.thecatholicspirit.com/news/local-news/senators-recall-annunciation-as-omnibus-firearms-bill-passes-focus-shifts-to-house/"
             }
           ],
-          "humor": "Performative is a strong word from the caucus that handed out commemorative KJV Bibles as a stunt.",
-          "inclusiveFuture": "Policy that saves lives beats performance art every time."
+          "humor": "Performative is a strong word from the commemorative-KJV caucus."
         }
       ],
       "faith": [],
@@ -1448,24 +1611,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "These are the policies our students, educators, and communities need to ensure every Minnesotan child receives a world-class education in a safe, welcoming environment.",
+          "context": "Education policy omnibus bill",
+          "date": "2023-03-09",
+          "theme": "Dignity",
+          "ntRef": "Matthew 18:6",
+          "ntText": "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-steve-cwodzinski-successfully-passes-education-policy-omnibus-bill-to-uplift-students-support-teachers-and-revitalize-schools-to-senate-floor/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 49: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Steve Cwodzinski is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "50": {
       "district": 50,
@@ -1484,11 +1645,9 @@
           "sources": [
             {
               "label": "FOX 9",
-              "url": "https://www.fox9.com/news/dfl-progressive-caucus-disrupts-walz-budget-conference-over-undocumented-migrant-insurance"
+              "url": "https://www.fox9.com/news/dfl-progressive-caucus-disrupts-walz-budget-conference-over-undocumented-migrant-insurance/"
             }
-          ],
-          "humor": "A physician said this on the record. Hard to spin as woke.",
-          "inclusiveFuture": "Medicine shouldn't have an immigration status checkbox."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 50: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Alice Mann is working toward.",
@@ -1502,24 +1661,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "Today's roundtable discussion was alarming, as we heard from Minnesotans about the threats the government shutdown poses to programs that help families stay in their homes and healthy.",
+          "context": "Roundtable on federal shutdown impacts on SNAP and housing",
+          "date": "2025-10-30",
+          "theme": "Feed the hungry",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-wiklund-response-to-government-shutdown-roundtable-in-richfield/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 51: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Melissa Wiklund is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "52": {
       "district": 52,
@@ -1529,24 +1686,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "Ranked choice voting strengthens democracy, promotes local control, and allows voters to have a stronger voice in our elections.",
+          "context": "Senate Elections Committee hearing",
+          "date": "2025-03-06",
+          "theme": "Justice",
+          "ntRef": "Micah 6:8",
+          "ntText": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-jim-carlsons-ranked-choice-voting-bill-heard-in-senate-elections-committee/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 52: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Jim Carlson is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "53": {
       "district": 53,
@@ -1556,24 +1711,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "We are a strong enough and a good enough state to ensure all of us have access to health care. And we can no longer allow a person's background or income to determine if they can receive treatment – we are better than that.",
+          "context": "Commentary on MinnesotaCare expansion",
+          "date": "2018-10-23",
+          "theme": "Healthcare",
+          "ntRef": "Matthew 25:36",
+          "ntText": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-klein-expanding-minnesotacare-would-increase-choice-and-competition/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 53: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Matt Klein is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "54": {
       "district": 54,
@@ -1582,25 +1735,24 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Pratt",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "In no world should registering a car be more expensive than a car payment, yet that is a common reality for many.",
+          "context": "Press release on tab-fee affordability",
+          "date": "2026-04",
+          "theme": "Affordability",
+          "ntRef": "Matthew 23:4",
+          "ntText": "For they bind heavy burdens and grievous to be borne, and lay them on men's shoulders; but they themselves will not move them with one of their fingers.",
           "sources": [
             {
               "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "url": "https://www.mnsenaterepublicans.com/living-in-minnesota-is-taxing-pratt-joins-senate-republicans-in-discussing-tax-increases-that-have-made-life-unaffordable/"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "inclusiveFuture": "Affordability matters — so does healthcare for neighbors."
         }
       ],
       "faith": [],
       "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Eric Pratt's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "55": {
       "district": 55,
@@ -1610,24 +1762,37 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "Healthcare is a human right, and it is infuriating to hear from and about Minnesotans making painful choices between seeking basic care and paying their other bills.",
+          "context": "Statement after healthcare roundtable in Northfield",
+          "date": "2025-10",
+          "theme": "Healthcare",
+          "ntRef": "Matthew 25:36",
+          "ntText": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senate-select-committee-holds-insurance-and-healthcare-roundtable-in-northfield/"
             }
           ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          "inclusiveFuture": "No one should choose between rent and insulin."
+        },
+        {
+          "text": "In the face of rising rents and mortgages across the state, we are taking decisive action to keep Minnesotans safely housed.",
+          "context": "Bipartisan housing legislation passage",
+          "date": "2025-05",
+          "theme": "Housing",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
+          "sources": [
+            {
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-lindsey-port-celebrates-passage-of-bipartisan-housing-legislation/"
+            }
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 55: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Lindsey Port is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "56": {
       "district": 56,
@@ -1648,9 +1813,7 @@
               "label": "Star Tribune",
               "url": "https://www.startribune.com/ethics-panel-takes-up-complaint-against-republican-senator-who-sent-graphic-video-link/600364366"
             }
-          ],
-          "humor": "Do justly, love mercy — and maybe don't mass-email shock videos.",
-          "inclusiveFuture": "Accountability with dignity is how we keep the Capitol trustworthy."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 56: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Erin Maye Quade is working toward.",
@@ -1661,11 +1824,10 @@
       "senator": "Zach Duckworth",
       "party": "R",
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Duckworth",
-      "hypocrisy": [],
-      "faith": [
+      "hypocrisy": [
         {
-          "text": "We do potentially have a need that we need to address.",
-          "context": "School meals vote — ultimately voted YES after seeking delay",
+          "text": "I think we need to be very thoughtful about how we're spending taxpayer dollars.",
+          "context": "Floor debate on school meals — sought delay before voting YES",
           "date": "2023-03",
           "theme": "Feed the hungry",
           "ntRef": "Matthew 25:35",
@@ -1676,8 +1838,26 @@
               "url": "https://www.cbsnews.com/minnesota/news/i-have-yet-to-meet-a-person-in-minnesota-that-is-hungry-outrage-follows-sen-drazkowskis-comments-on-free-school-meals/"
             }
           ],
-          "humor": "He voted to feed the kids — while colleagues said hunger was imaginary. Progress is possible.",
-          "inclusiveFuture": "When Republicans cross the aisle for kids, Minnesota gets better. More of this."
+          "humor": "Thoughtful delay on feeding kids — then voted yes. More of that.",
+          "note": "Duckworth ultimately voted for free school meals after seeking broader package."
+        }
+      ],
+      "faith": [
+        {
+          "text": "We do potentially have a need that we need to address.",
+          "context": "Same school meals vote",
+          "date": "2023-03",
+          "theme": "Feed the hungry",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
+          "sources": [
+            {
+              "label": "CBS Minnesota",
+              "url": "https://www.cbsnews.com/minnesota/news/i-have-yet-to-meet-a-person-in-minnesota-that-is-hungry-outrage-follows-sen-drazkowskis-comments-on-free-school-meals/"
+            }
+          ],
+          "humor": "He voted to feed the kids while colleagues said hunger was imaginary.",
+          "inclusiveFuture": "When Republicans cross the aisle for kids, Minnesota gets better."
         }
       ],
       "betterPath": "Zach Duckworth showed us Republicans can choose dignity over division. Minnesota needs more of that courage — feed the hungry, love every neighbor, steward creation.",
@@ -1690,25 +1870,28 @@
       "bioUrl": "https://www.mnsenaterepublicans.com/?s=Lieske",
       "hypocrisy": [
         {
-          "text": "Commemorative King James Version Bibles distributed to Senate Democrats — a caucus culture-war stunt.",
-          "context": "MN Senate Republican Caucus",
-          "date": "2025-26",
-          "theme": "Faith weaponized",
-          "ntRef": "Matthew 23:27",
-          "ntText": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "text": "We don't have a revenue problem. We have a spending problem.",
+          "context": "Guest column on state deficit",
+          "date": "2025-04-11",
+          "theme": "Fiscal policy",
+          "ntRef": "Matthew 7:5",
+          "ntText": "Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.",
           "sources": [
             {
+              "label": "Southern Minn",
+              "url": "https://www.southernminn.com/lonsdale_area_news_review/opinion/sen-lieske-we-don-t-have-a-revenue-problem-we-have-a-spending-problem/article_f18e7cb1-67e4-4c10-9bc0-370f0800fc08.html"
+            },
+            {
               "label": "MN Senate Republicans",
-              "url": "https://www.mnsenaterepublicans.com/"
+              "url": "https://www.mnsenaterepublicans.com/lieske-we-dont-have-a-revenue-problem-we-have-a-spending-problem/"
             }
           ],
-          "humor": "140 KJV verses mention 'ass' or 'asses.' They counted. For Christ.",
-          "inclusiveFuture": "Minnesota deserves policy, not prop comedy with holy books."
+          "humor": "Signature catchphrase — repeated across 2025–2026 columns."
         }
       ],
       "faith": [],
       "betterPath": "We can be better than culture-war stunts: feed hungry kids, welcome every neighbor, and stop invoking Christ's name for cruelty. Bill Lieske's district — and all of Minnesota — deserves that future.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "59": {
       "district": 59,
@@ -1718,24 +1901,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
+          "text": "These are our friends and neighbors who contribute to economic and cultural well-being of our state.",
+          "context": "Statement condemning targeting of Somali community",
+          "date": "2025-12-04",
+          "theme": "Welcome stranger",
           "ntRef": "Matthew 25:40",
           "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-bobby-joe-champion-strongly-denounces-trumps-continued-targeting-of-minnesotas-somali-community/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 59: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Bobby Joe Champion is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "60": {
       "district": 60,
@@ -1745,24 +1926,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "I will be focused on education, housing, housing, housing and lowering the cost of health care.",
+          "context": "Interview after winning SD 60 special election",
+          "date": "2025-01-28",
+          "theme": "Housing & healthcare",
+          "ntRef": "Matthew 25:36",
+          "ntText": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Star Tribune",
+              "url": "https://www.startribune.com/doron-clark-minnesota-senate-dfl-republican-democrat-district-60-kari-dziedzic/601213222"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 60: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Doron Clark is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "61": {
       "district": 61,
@@ -1772,24 +1951,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "When every person has access to healthcare, housing, treatment, prevention, and the basic security of a safe, stable life, new infections fall and lives are saved.",
+          "context": "World AIDS Day statement",
+          "date": "2025-12-01",
+          "theme": "Healthcare",
+          "ntRef": "Matthew 25:36",
+          "ntText": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-scott-dibble-statement-on-honoring-world-aids-day/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 61: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Scott Dibble is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "62": {
       "district": 62,
@@ -1810,9 +1987,7 @@
               "label": "Star Tribune",
               "url": "https://www.startribune.com/trump-racist-rant-somali-community-minnesota/601542035"
             }
-          ],
-          "humor": "Cross-party gratitude — proof that decency still gets applause.",
-          "inclusiveFuture": "When one senator stands up, others can follow. That's how culture shifts."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 62: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Omar Fateh is working toward.",
@@ -1837,9 +2012,7 @@
               "label": "Senate DFL",
               "url": "https://senatedfl.mn/senate-minnesota-asian-pacific-caucus-statement-on-aapi-legislative-hearing/"
             }
-          ],
-          "humor": "POCI caucus said what the commemorative-Bible caucus won't.",
-          "inclusiveFuture": "Minnesota's diversity is its competitive advantage — invest in it."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 63: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Zaynab Mohamed is working toward.",
@@ -1862,11 +2035,9 @@
           "sources": [
             {
               "label": "FOX 9",
-              "url": "https://www.fox9.com/news/dfl-progressive-caucus-disrupts-walz-budget-conference-over-undocumented-migrant-insurance"
+              "url": "https://www.fox9.com/news/dfl-progressive-caucus-disrupts-walz-budget-conference-over-undocumented-migrant-insurance/"
             }
-          ],
-          "humor": "Two words. Sourced. Devastating to the cruelty caucus.",
-          "inclusiveFuture": "Prosperity for all means every neighbor counts."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 64: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Erin Murphy is working toward.",
@@ -1880,24 +2051,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
-          "ntRef": "Matthew 25:40",
-          "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+          "text": "Governor Walz has been a steadfast ally in the Capital Investment Committee's work to maintain state assets and provide Minnesotans with clean water and dignified housing.",
+          "context": "Statement on 2026 bonding proposal",
+          "date": "2026-01-16",
+          "theme": "Housing",
+          "ntRef": "Matthew 25:35",
+          "ntText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/senator-pappas-statement-on-governor-walz-2026-bonding-proposal/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 65: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Sandra Pappas is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     },
     "66": {
       "district": 66,
@@ -1907,20 +2076,33 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Everyone deserves to feel safe in their community — regardless of who they are or who they love.",
-          "context": "Judiciary committee remarks on civil rights",
-          "date": "2024",
-          "theme": "Love neighbor",
+          "text": "We have heard from Minnesotans who failed the written driver's license exam because it uses unnecessarily confusing and complex language.",
+          "context": "Plain language driver's license exam bill",
+          "date": "2024-04",
+          "theme": "Dignity",
           "ntRef": "Matthew 22:39",
           "ntText": "Thou shalt love thy neighbour as thyself.",
           "sources": [
             {
               "label": "Senate DFL",
-              "url": "https://senatedfl.mn/"
+              "url": "https://senatedfl.mn/senator-clare-oumou-verbeten-ushers-bill-to-implement-plain-language-standards-on-written-drivers-license-exam-to-bipartisan-passage-in-senate/"
             }
           ],
-          "note": "Public committee remarks — verify at Senate video archive.",
-          "inclusiveFuture": "Safety and belonging for every Minnesotan — that's the future worth building."
+          "inclusiveFuture": "Accessibility is dignity — especially for immigrant neighbors learning to drive."
+        },
+        {
+          "text": "In this role, I will continue to fight to make Minnesota a more inclusive and equitable place for all.",
+          "context": "Statement on election as Assistant Majority Leader",
+          "date": "2024-03",
+          "theme": "Justice",
+          "ntRef": "Micah 6:8",
+          "ntText": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
+          "sources": [
+            {
+              "label": "LinkedIn (Sen. Oumou Verbeten)",
+              "url": "https://www.linkedin.com/posts/clareoumouverbeten_i-am-grateful-to-my-colleagues-for-electing-activity-7171852781161558016-PVFs"
+            }
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 66: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Clare Oumou Verbeten is working toward.",
@@ -1934,24 +2116,22 @@
       "hypocrisy": [],
       "faith": [
         {
-          "text": "Minnesota's prosperity depends on healthcare access for everyone, regardless of immigration status.",
-          "context": "POCI Caucus joint statement",
-          "date": "2025-06",
-          "theme": "Care for all",
+          "text": "Every Minnesotan deserves to have their rights protected and to be able to live with dignity.",
+          "context": "Senate passage of Restore the Vote and Driver's Licenses for All",
+          "date": "2023-02-22",
+          "theme": "Dignity",
           "ntRef": "Matthew 25:40",
           "ntText": "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
           "sources": [
             {
-              "label": "MN House POCI Caucus",
-              "url": "https://www.house.mn.gov/members/Profile/News/15574/40709"
+              "label": "Senate DFL",
+              "url": "https://senatedfl.mn/members-of-senate-poci-caucus-praise-historic-passage-of-restore-the-vote-and-drivers-licenses-for-all/"
             }
-          ],
-          "note": "Caucus statement — see senator bio for district-specific voting record.",
-          "inclusiveFuture": "Inclusive healthcare is how we build a state where everyone contributes."
+          ]
         }
       ],
       "betterPath": "Build prosperity for all in District 67: dignity, healthcare, and neighbors who show up. That's the inclusive Minnesota Foung Hawj is working toward.",
-      "hasDirectQuotes": false
+      "hasDirectQuotes": true
     }
   }
 }
