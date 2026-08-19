@@ -206,6 +206,30 @@ export default function App() {
         )}
 
         {!selected && (
+          <div className="below-map">
+          <section className="featured">
+            <h2 className="featured-title">Six connections that tell the story</h2>
+            <p className="featured-sub">Click any district on the map for full sourced records. Here are the highlights.</p>
+            <div className="featured-grid">
+              {[
+                { d: 20, hypo: 'Drazkowski: "never met a hungry person"', nt: 'Matthew 25:35', better: 'Feed every Minnesota child.' },
+                { d: 31, hypo: 'Bahr: "pay the consequences"', nt: 'John 8:7', better: 'Compassion over condemnation.' },
+                { d: 17, hypo: 'Gruenhagen: "unhealthy sexual addiction"', nt: 'Matthew 22:39', better: 'Love thy neighbor. Full stop.' },
+                { d: 8, hypo: 'Westrom: wolves in backyards', nt: 'Matthew 5:9', better: 'Peacemakers, not provocateurs.' },
+                { d: 35, hypo: null, nt: 'Abeler: "none of them are trash"', better: 'Dignity for every neighbor.', faith: true },
+                { d: 64, hypo: null, nt: 'Murphy: "They are our neighbors"', better: 'Prosperity includes everyone.', faith: true },
+              ].map((item) => (
+                <button key={item.d} className="featured-card" onClick={() => setSelected(String(item.d))}>
+                  <span className="featured-d">District {item.d}</span>
+                  {item.hypo && <p className="featured-hypo">{item.hypo}</p>}
+                  {item.faith && <p className="featured-faith">{item.nt}</p>}
+                  {!item.faith && <p className="featured-nt">{item.nt}</p>}
+                  <p className="featured-better">{item.better}</p>
+                  <span className="featured-cta">View sources →</span>
+                </button>
+              ))}
+            </div>
+          </section>
           <section className="intro-grid">
             <div className="intro-card intro-hypo">
               <h3>They invoke Christ</h3>
@@ -220,6 +244,7 @@ export default function App() {
               <p>Prosperity for all: feed people, love neighbors, build a future every Minnesotan inherits.</p>
             </div>
           </section>
+          </div>
         )}
       </main>
 

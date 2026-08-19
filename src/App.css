@@ -240,6 +240,56 @@ body {
   gap: 1rem;
   margin-top: 1.5rem;
 }
+
+.below-map { grid-column: 1 / -1; }
+
+.featured {
+  grid-column: 1 / -1;
+  margin-top: 2rem;
+}
+.featured-title {
+  font-family: 'Fraunces', serif;
+  font-size: 1.75rem;
+  color: var(--mn-blue);
+  text-align: center;
+}
+.featured-sub {
+  text-align: center;
+  color: #666;
+  margin: 0.5rem 0 1.5rem;
+}
+.featured-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+}
+.featured-card {
+  text-align: left;
+  background: white;
+  border: 2px solid #e8e8e8;
+  border-radius: 16px;
+  padding: 1.25rem;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+}
+.featured-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(0,56,101,0.12);
+  border-color: var(--gold);
+}
+.featured-d {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--mn-blue);
+}
+.featured-hypo { color: var(--coral); font-weight: 600; margin: 0.5rem 0; font-size: 0.95rem; }
+.featured-faith { color: var(--hope); font-weight: 600; margin: 0.5rem 0; font-size: 0.95rem; }
+.featured-nt { color: var(--mn-blue); font-size: 0.85rem; margin: 0.35rem 0; }
+.featured-better { font-size: 0.9rem; margin-top: 0.5rem; color: #444; }
+.featured-cta { display: block; margin-top: 0.75rem; font-size: 0.8rem; font-weight: 700; color: var(--gold); }
+
 @media (max-width: 768px) { .intro-grid { grid-template-columns: 1fr; } }
 .intro-card {
   border-radius: 16px;
