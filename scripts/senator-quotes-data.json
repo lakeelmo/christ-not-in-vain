@@ -656,24 +656,39 @@
   "24": {
     "hypocrisy": [
       {
-        "text": "Elder abuse is something that cannot \u2013 and will not \u2013 be tolerated. The elderly are some of Minnesota's most vulnerable and to take advantage of that vulnerability is truly reprehensible.",
-        "context": "Response to Star Tribune senior-living abuse investigation",
-        "date": "2019",
-        "theme": "Protect vulnerable",
-        "ntRef": "Matthew 25:40",
-        "ntKey": "M25_40",
+        "text": "Serving the people of Rochester and southeastern Minnesota has been a great privilege and responsibility.",
+        "context": "Retirement announcement",
+        "date": "2026",
+        "theme": "Public service",
+        "ntRef": "Micah 6:8",
+        "ntKey": "MIC6_8",
         "sources": [
           {
-            "label": "Star Tribune",
-            "url": "https://www.startribune.com/republican-lawmaker-threatens-to-subpoena-minnesota-department-of-health-over-covid-19-nursing-home/571025892/"
+            "label": "MN Senate Republicans",
+            "url": "https://www.mnsenaterepublicans.com/senator-carla-nelson-announces-retirement-from-minnesota-senate/"
           }
         ],
-        "humor": "Pro-compassion on elders \u2014 apply the same energy to hungry kids and immigrant neighbors.",
-        "inclusiveFuture": "Protect every vulnerable Minnesotan, not just some.",
-        "note": "Sen. Carla Nelson statement on elder abuse."
+        "humor": "Twenty years of constituent service vs. one year of commemorative Bibles.",
+        "inclusiveFuture": "Leadership rooted in listening beats performative faith."
       }
     ],
-    "faith": []
+    "faith": [
+      {
+        "text": "After my father received an Alzheimer's diagnosis, I authored the Alzheimer's Research and Support Act, creating a competitive grant program for research and caregiver services.",
+        "context": "Retirement statement on legislative legacy",
+        "date": "2026",
+        "theme": "Heal sick",
+        "ntRef": "Matthew 25:36",
+        "ntKey": "M25_36",
+        "sources": [
+          {
+            "label": "MN Senate Republicans",
+            "url": "https://www.mnsenaterepublicans.com/senator-carla-nelson-announces-retirement-from-minnesota-senate/"
+          }
+        ],
+        "inclusiveFuture": "Compassion policy from personal pain \u2014 that's scripture lived."
+      }
+    ]
   },
   "25": {
     "hypocrisy": [],
@@ -884,23 +899,43 @@
   "33": {
     "hypocrisy": [
       {
-        "text": "While I appreciate the work of Minnesota Department of Health Commissioner Jan Malcolm and her staff during this challenging period, I have seen little indication that the administration views the crisis in long-term care as a priority.",
-        "context": "Star Tribune \u2014 threatened subpoena over COVID nursing-home data",
-        "date": "2020-05",
+        "text": "Elder abuse is something that cannot \u2013 and will not \u2013 be tolerated. The elderly are some of Minnesota's most vulnerable and to take advantage of that vulnerability is truly reprehensible.",
+        "context": "Response to Star Tribune senior-living abuse investigation",
+        "date": "2017",
         "theme": "Protect vulnerable",
-        "ntRef": "Matthew 25:36",
-        "ntKey": "M25_36",
+        "ntRef": "Matthew 25:40",
+        "ntKey": "M25_40",
+        "sources": [
+          {
+            "label": "MN Senate Republicans",
+            "url": "https://www.mnsenaterepublicans.com/senator-housley-responds-star-tribune-report-detailing-abuse-neglect-minnesota-senior-living-facilities/"
+          },
+          {
+            "label": "Star Tribune",
+            "url": "https://www.startribune.com/victims-denounce-a-failing-state-system-for-responding-to-reports-of-elder-abuse/474713293/"
+          }
+        ],
+        "humor": "Fierce advocate for elders \u2014 apply that same fire to hungry kids and immigrant neighbors.",
+        "inclusiveFuture": "Protect EVERY vulnerable Minnesotan consistently."
+      }
+    ],
+    "faith": [
+      {
+        "text": "Any type of tax relief we can give these families will be a welcome break.",
+        "context": "Star Tribune on Toddler Tax Credit proposal",
+        "date": "2017",
+        "theme": "Family affordability",
+        "ntRef": "Matthew 25:40",
+        "ntKey": "M25_40",
         "sources": [
           {
             "label": "Star Tribune",
-            "url": "https://www.startribune.com/republican-lawmaker-threatens-to-subpoena-minnesota-department-of-health-over-covid-19-nursing-home/571025892/"
+            "url": "https://www.startribune.com/gop-senator-proposes-toddler-tax-credit-for-minnesotans-with-young-children/294095371/"
           }
         ],
-        "humor": "Fought for elders in 2020 \u2014 hungry kids and immigrant neighbors deserve the same advocacy.",
-        "inclusiveFuture": "Consistent compassion for ALL vulnerable Minnesotans."
+        "inclusiveFuture": "Tax relief for young families is good \u2014 so is healthcare for all families."
       }
-    ],
-    "faith": []
+    ]
   },
   "34": {
     "hypocrisy": [],
