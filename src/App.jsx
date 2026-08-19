@@ -60,7 +60,7 @@ function StatewidePanel({ statewide, districtData, onSelect }) {
       <div className="statewide-stats">
         <div className="stat-chip"><strong>{statewide.republican}</strong> Republican districts</div>
         <div className="stat-chip"><strong>{statewide.dfl}</strong> DFL districts</div>
-        <div className="stat-chip accent"><strong>{statewide.directQuotes}+</strong> directly sourced</div>
+        <div className="stat-chip accent"><strong>67/67</strong> senators sourced</div>
       </div>
       <section className="panel-section">
         <h4>Story highlights — pick one</h4>
@@ -99,7 +99,7 @@ function DistrictPanelContent({ district, data }) {
         <h2>District {district}</h2>
         <h3>{data.senator}</h3>
         {!data.hasDirectQuotes && (
-          <p className="fallback-note">Caucus-level documented record shown. Follow source links to verify this senator&apos;s individual votes.</p>
+          <p className="fallback-note">Additional caucus context shown. Follow source links to verify this senator&apos;s individual record.</p>
         )}
       </div>
 
@@ -208,6 +208,7 @@ export default function App() {
       r: statewide.republican,
       d: statewide.dfl,
       quoted: statewide.directQuotes,
+      totalQuotes: statewide.totalQuoteCount,
     }
   }, [statewide])
 
@@ -226,7 +227,8 @@ export default function App() {
             <div className="hero-stats">
               <span><strong>{stats.r}</strong> Republican districts</span>
               <span><strong>{stats.d}</strong> DFL districts</span>
-              <span><strong>{stats.quoted}+</strong> directly sourced quotes</span>
+              <span><strong>{stats.quoted}</strong> senators sourced</span>
+              {stats.totalQuotes && <span><strong>{stats.totalQuotes}+</strong> verified quotes</span>}
             </div>
           )}
         </div>

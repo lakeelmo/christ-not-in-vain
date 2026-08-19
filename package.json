@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/build-quotes.mjs && vite build",
+    "build": "python3 scripts/generate-all-quotes.py && node scripts/build-quotes.mjs && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
